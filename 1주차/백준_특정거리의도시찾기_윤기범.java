@@ -3,11 +3,13 @@ import java.io.*;
 
 public class Main {
     public static boolean[] visited;
+    // 인접 리스트 방식 그래프
     public static ArrayList<ArrayList<Integer>> graph = new ArrayList<ArrayList<Integer>>();
     public static ArrayList<Integer> answer = new ArrayList<>();
     public static int n, m, k, x;
     public static int cnt = 0;
 
+    // bfs방식
     public static void bfs(int start) {
         Queue<Integer> q = new LinkedList<>();
         q.offer(start);
@@ -42,6 +44,7 @@ public class Main {
         k = Integer.parseInt(st.nextToken());
         x = Integer.parseInt(st.nextToken());
 
+        // 그래프 초기화
         for(int i = 0; i < n + 1; i++) {
             graph.add(new ArrayList<>());
         }
