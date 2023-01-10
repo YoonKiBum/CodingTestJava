@@ -29,7 +29,8 @@ public class Main{
         
         while(!pq.isEmpty()){
             Node current = pq.poll();
-            
+            if(distances[current.num] < current.cost) continue;  // 이미 처리된 노드
+
             for(Node next : adj[current.num]){
                 if(distances[next.num] > distances[current.num] + next.cost){
                     distances[next.num] = distances[current.num] + next.cost;
