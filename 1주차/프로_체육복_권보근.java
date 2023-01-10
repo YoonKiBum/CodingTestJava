@@ -48,7 +48,7 @@ class Solution {
             if(lostmap.get(key) == 0) cnt++;
         }
         
-        answer = n-lostmap.size()+cnt;
+        answer = n - lostmap.size() + cnt;
         
         return answer;
     }
