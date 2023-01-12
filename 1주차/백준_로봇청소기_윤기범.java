@@ -13,13 +13,6 @@ public class Main {
     else
       dir -= 1;
   } 
-
-  public static void turnRight() {
-    if(dir == 3)
-      dir = 0;
-    else
-      dir += 1;
-  }
   
   public static void main(String[] args) throws Exception {
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
