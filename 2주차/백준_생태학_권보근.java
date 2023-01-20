@@ -22,6 +22,7 @@ public class Main {
             }
             total++;
         }
+
         Collections.sort(list);
 
         for(String tree : list) {
