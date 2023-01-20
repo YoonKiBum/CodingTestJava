@@ -1,5 +1,5 @@
 # 주사위 굴리기
-## 유형 : 구현
+### 유형 : 구현
 ### 윤기범
 https://www.acmicpc.net/problem/14499
 
