@@ -10,7 +10,9 @@
 
 # 감시
 ## 윤기범 ([README.md](src/감시_윤기범.md))
+## 권보근 ([README.md](src/감시_권보근.md))
 <hr>
 
 # 이중우선순위큐
 ## 윤기범 ([README.md](src/이중우선순위큐_윤기범.md))
+## 권보근 ([README.md](src/이중우선순위큐_권보근.md))
