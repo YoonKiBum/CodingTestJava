@@ -29,4 +29,5 @@
 <hr>
 
 # 기능 개발
+## 윤기범 ([README.md](src/기능개발_.md))
 ## 권보근 ([README.md](src/기능개발_권보근.md))
