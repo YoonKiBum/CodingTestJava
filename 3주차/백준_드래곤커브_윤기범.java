@@ -1,6 +1,7 @@
 import java.util.*;
 import java.io.*;
 
+
 public class Main {
     public static int n;
     public static int[][] graph = new int[101][101];
