@@ -34,14 +34,14 @@
 <hr>
 
 # 미세먼지 안녕!
-## 윤기범 ([README.md](src/미세먼지안녕_.md))
+## 윤기범 ([README.md](src/미세먼지안녕_윤기범.md))
 <hr>
 
 # 올바른 괄호
-## 윤기범 ([README.md](src/올바른괄호_.md))
+## 윤기범 ([README.md](src/올바른괄호_윤기범.md))
 <hr>
 
 # 프린터
-## 윤기범 ([README.md](src/프린터_.md))
+## 윤기범 ([README.md](src/프린터_윤기범.md))
 <hr>
 
