@@ -1,3 +1,3 @@
-```Oracle
+```sql
 select * from table;
 ```
