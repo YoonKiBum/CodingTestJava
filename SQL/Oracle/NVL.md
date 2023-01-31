@@ -12,7 +12,7 @@ SELECT empno
   FROM emp
 ```
 <hr>
-
+<br/>
 
 ## NVL2
 
