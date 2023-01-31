@@ -2,7 +2,7 @@
 
 ## SQL ([README.md](/SQL/README.md))
 
-## 1주차
+## 1주차 ([README.md](/1주차/README.md))
 
 ## 2주차 ([README.md](/2주차/README.md))
 
