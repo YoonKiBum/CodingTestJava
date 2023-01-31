@@ -1,0 +1,3 @@
+```Oracle
+select * from table;
+```
