@@ -10,6 +10,6 @@
 <hr>
 
 # 내리막 길
-## 윤기범 ([Java 코드](백준_내리막길_윤기범.java)) ([README.md](src/_윤기범.md))
+## 윤기범 ([Java 코드](백준_내리막길_윤기범.java)) ([README.md](src/내리막길_윤기범.md))
 
 <hr>
