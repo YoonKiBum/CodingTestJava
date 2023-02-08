@@ -61,4 +61,4 @@
 
 # 동전 2
 ## 윤기범 ([Java 코드](백준_동전2_윤기범.java)) ([README.md](src/동전2_윤기범.md))
-## 권보근 ([Java 코드](백준_동전2_권보근.java)) ([README.md](src/동전2_.md))
+## 권보근 ([Java 코드](백준_동전2_권보근.java)) ([README.md](src/동전2_권보근.md))
