@@ -56,5 +56,6 @@
 ## 윤기범 ([Java 코드](백준_연속합_윤기범.java)) ([README.md](src/연속합_윤기범.md))
 
 <hr>
+
 # 동전 2
 ## 윤기범 ([Java 코드](백준_동전2_윤기범.java)) ([README.md](src/동전2_윤기범.md))
