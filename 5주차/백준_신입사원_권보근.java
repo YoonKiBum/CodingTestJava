@@ -4,14 +4,6 @@ import java.io.*;
 
 
 class Main {
-    static class Node{
-        int w, v;
-
-        Node(int weight, int value){
-            this.w = weight;
-            this.v = value;
-        }
-    }
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
