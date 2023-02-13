@@ -19,7 +19,6 @@ public class Main {
                 max = jew[i];
         }
 
-        long ans = Long.MAX_VALUE;
         while(min<=max){
             mid = (min+max)/2;
 
@@ -32,12 +31,11 @@ public class Main {
 
             if(sum<=N){
                 max = mid - 1;
-                ans = Math.min(ans, mid);
             }
             else{
                 min = mid + 1;
             }
         }
-        System.out.println(ans);
+        System.out.println(min);
     }
 }
