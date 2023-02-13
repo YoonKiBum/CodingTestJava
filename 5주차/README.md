@@ -129,6 +129,7 @@
 
 # 수열
 ## 권보근 ([Java 코드](백준_수열_권보근.java)) ([README.md](src/수열_권보근.md))
+## 윤기범 ([Java 코드](백준_수열_윤기범.java)) ([README.md](src/수열_윤기범.md))
 
 <hr>
 
