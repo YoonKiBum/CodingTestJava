@@ -12,4 +12,4 @@
 
 # 주식
 
-## 윤기범 ([Java 코드](백준_주식_윤기범.java)) ([README.md](src/_윤기범.md))
+## 윤기범 ([Java 코드](백준_주식_윤기범.java)) ([README.md](src/주식_윤기범.md))
