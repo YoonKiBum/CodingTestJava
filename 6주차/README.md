@@ -28,26 +28,38 @@
 # 카드 구매하기
 
 ## 윤기범 ([Java 코드](백준_카드구매하기_윤기범.java)) ([README.md](src/카드구매하기_윤기범.md))
+## 권보근 ([Java 코드](백준_카드구매하기_권보근.java)) ([README.md](src/카드구매하기_권보근.md))
 
 <hr>
 
 # 제곱수의 합
 
 ## 윤기범 ([Java 코드](백준_제곱수의합_윤기범.java)) ([README.md](src/제곱수의합_윤기범.md))
+## 권보근 ([Java 코드](백준_제곱수의합_권보근.java)) ([README.md](src/제곱수의합_권보근.md))
+
+<hr>
+
+# 동전 1
+
+## 권보근 ([Java 코드](백준_동전1_권보근.java)) ([README.md](src/동전1_권보근.md))
 
 <hr>
 
 # 병든 나이트
 
 ## 윤기범 ([Java 코드](백준_병든나이트_윤기범.java)) ([README.md](src/병든나이트_윤기범.md))
+## 권보근 ([Java 코드](백준_병든나이트_권보근.java)) ([README.md](src/병든나이트_권보근.md))
 
 <hr>
 
 # 카드 합체 놀이
 
 ## 윤기범 ([Java 코드](백준_카드합체놀이_윤기범.java)) ([README.md](src/카드합체놀이_윤기범.md))
+## 권보근 ([Java 코드](백준_카드합체놀이_권보근.java)) ([README.md](src/카드합체놀이_권보근.md))
 
 <hr>
 
 # 주사위
 ## 윤기범 ([Java 코드](백준_주사위_윤기범.java)) ([README.md](src/주사위_윤기범.md))
+## 권보근 ([Java 코드](백준_주사위_권보근.java)) ([README.md](src/주사위_권보근.md))
+
