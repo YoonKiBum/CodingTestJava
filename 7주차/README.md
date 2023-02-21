@@ -25,7 +25,7 @@
 <hr>
 
 # 수 묶기
-
+## 윤기범 ([Java 코드](백준_수묶기_윤기범.java)) ([README.md](src/수묶기_윤기범.md))
 ## 권보근 ([Java 코드](백준_수묶기_권보근.java)) ([README.md](src/수묶기_권보근.md))
 
 <hr>
