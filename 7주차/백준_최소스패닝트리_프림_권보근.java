@@ -61,6 +61,13 @@ public class Main {
 
             sum += cur.cost;
             visited[cur.vertex] = true;
+            cnt++;
+
+            if(cnt==V){
+                System.out.println(sum);
+                return;
+            }
+
 
             for(Node next : adj[cur.vertex]){
                 if(visited[next.vertex])
