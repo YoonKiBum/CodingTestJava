@@ -63,23 +63,28 @@
 
 # 삼각형 만들기
 ## 윤기범 ([Java 코드](백준_삼각형만들기_윤기범.java)) ([README.md](src/삼각형만들기_윤기범.md))
+## 권보근 ([Java 코드](백준_삼각형만들기_권보근.java)) ([README.md](src/삼각형만들기_권보근.md))
 
 <hr>
 
 # 팔
 ## 윤기범 ([Java 코드](백준_팔_윤기범.java)) ([README.md](src/팔_윤기범.md))
+## 권보근 ([Java 코드](백준_팔_권보근.java)) ([README.md](src/팔_권보근.md))
 
 <hr>
 
 # 단어 수학
 ## 윤기범 ([Java 코드](백준_단어수학_윤기범.java)) ([README.md](src/단어수학_윤기범.md))
+## 권보근 ([Java 코드](백준_단어수학_권보근.java)) ([README.md](src/단어수학_권보근.md))
 
 <hr>
 
 # 타임머신
 ## 윤기범 ([Java 코드](백준_타임머신_윤기범.java)) ([README.md](src/타임머신_윤기범.md))
+## 권보근 ([Java 코드](백준_타임머신_권보근.java)) ([README.md](src/타임머신_권보근.md))
 
 <hr>
 
 # 경로 찾기
 ## 윤기범 ([Java 코드](백준_경로찾기_윤기범.java)) ([README.md](src/경로찾기_윤기범.md))
+## 권보근 ([Java 코드](백준_경로찾기_권보근.java)) ([README.md](src/경로찾기_권보근.md))
