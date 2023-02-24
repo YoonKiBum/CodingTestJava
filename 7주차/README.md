@@ -93,25 +93,31 @@
 
 # 합분해
 ## 윤기범 ([Java 코드](백준_합분해_윤기범.java)) ([README.md](src/합분해_윤기범.md))
+## 권보근 ([Java 코드](백준_합분해_권보근.java)) ([README.md](src/합분해_권보근.md))
 
 <hr>
 
 # LCS
 ## 윤기범 ([Java 코드](백준_LCS_윤기범.java)) ([README.md](src/LCS_윤기범.md))
+## 권보근 ([Java 코드](백준_LCS_권보근.java)) ([README.md](src/LCS_권보근.md))
 
 <hr>
 
 # 파이프 옮기기1
 ## 윤기범 ([Java 코드](백준_파이프옮기기1_윤기범.java)) ([README.md](src/파이프옮기기1_윤기범.md))
 ## 윤기범 ([Java 코드 dp](백준_파이프옮기기1_윤기범_dp.java)) ([README.md](src/파이프옮기기1_윤기범.md))
+## 권보근 ([Java 코드 dp](백준_파이프옮기기1_권보근_bfs.java)) ([README.md](src/파이프옮기기1_bfs_권보근.md))
+## 권보근 ([Java 코드 dp](백준_파이프옮기기1_권보근_dfs.java)) ([README.md](src/파이프옮기기1_dfs_권보근.md))
 
 <hr>
 
 # 가장 긴 바이토닉 부분 수열
 ## 윤기범 ([Java 코드](백준_가장긴바이토닉부분수열_윤기범.java)) ([README.md](src/가장긴바이토닉부분수열_윤기범.md))
+## 권보근 ([Java 코드](백준_가장긴바이토닉부분수열_권보근.java)) ([README.md](src/가장긴바이토닉부분수열_권보근.md))
 
 <hr>
 
 # 전깃줄
 ## 윤기범 ([Java 코드](백준_전깃줄_윤기범.java)) ([README.md](src/전깃줄_윤기범.md))
+## 권보근 ([Java 코드](백준_전깃줄_권보근.java)) ([README.md](src/전깃줄_권보근.md))
 
