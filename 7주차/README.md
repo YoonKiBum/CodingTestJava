@@ -94,3 +94,9 @@
 # 합분해
 ## 윤기범 ([Java 코드](백준_합분해_윤기범.java)) ([README.md](src/합분해_윤기범.md))
 
+<hr>
+
+# LCS
+## 윤기범 ([Java 코드](백준_LCS_윤기범.java)) ([README.md](src/LCS_윤기범.md))
+
+
