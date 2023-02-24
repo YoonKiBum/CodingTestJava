@@ -106,8 +106,8 @@
 # 파이프 옮기기1
 ## 윤기범 ([Java 코드](백준_파이프옮기기1_윤기범.java)) ([README.md](src/파이프옮기기1_윤기범.md))
 ## 윤기범 ([Java 코드 dp](백준_파이프옮기기1_윤기범_dp.java)) ([README.md](src/파이프옮기기1_윤기범.md))
-## 권보근 ([Java 코드 dp](백준_파이프옮기기1_권보근_bfs.java)) ([README.md](src/파이프옮기기1_bfs_권보근.md))
-## 권보근 ([Java 코드 dp](백준_파이프옮기기1_권보근_dfs.java)) ([README.md](src/파이프옮기기1_dfs_권보근.md))
+## 권보근 ([Java 코드 BFS](백준_파이프옮기기1_bfs_권보근.java)) ([README.md](src/파이프옮기기1_bfs_권보근.md))
+## 권보근 ([Java 코드 DFS](백준_파이프옮기기1_dfs_권보근.java)) ([README.md](src/파이프옮기기1_dfs_권보근.md))
 
 <hr>
 
