@@ -15,3 +15,5 @@
 ## 6주차 ([README.md](/6주차/README.md))
 
 ## 7주차 ([README.md](/7주차/README.md))
+
+## 8주차 ([README.md](/8주차/README.md))
